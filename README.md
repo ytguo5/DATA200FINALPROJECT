@@ -1,2 +1,2 @@
 # DATA200FINALPROJECT
-This contain both python file and dataset file of the final project.
+This contains both python file and dataset file of the final project.
